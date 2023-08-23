@@ -39,6 +39,6 @@ public class ConexionDB {
         }
         // Retorna la conexión establecida o null en caso de que no se haya podido conectar
         return con;        
-    }   
+    } 
     
 }
