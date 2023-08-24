@@ -514,7 +514,7 @@ public class Where extends javax.swing.JFrame {
 
                 JOptionPane.showMessageDialog(null, "Producto Modificado");
                 userTabl.setValueAt(txtNombre.getText(), Fila, 0);
-                userTabl.setValueAt(txtCodigo.getText(), Fila, 1);
+//                userTabl.setValueAt(txtCodigo.getText(), Fila, 1);
                 userTabl.setValueAt(txtPrecio.getText(), Fila, 2);
                 userTabl.setValueAt(txtCategoria.getText(), Fila, 3);
                 userTabl.setValueAt(txtDistribuidor.getText(), Fila, 4);
